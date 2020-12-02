@@ -34,4 +34,5 @@
   <h2>Sections:</h2>
   <div class="sections"><li><a href="https://matteosalverio.github.io/Troubleshoot.it/solved-projects">My Solved Projects</a>
   <li><a href="">My Unsolved Projects</a>
-  <li><a href="">How to Contribute</a></div>
+  <li><a href="">How to Contribute</a>
+</div>
