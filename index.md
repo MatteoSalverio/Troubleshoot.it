@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+<html lang="en">
+<head>
+  <title>Troubleshoot.it</title>
+    <style>
+      h2 {
+        text-align: center;
+        margin: 25px;
+      }
+  
+      h1 {
+        text-align: center;
+        margin: 25px;
+      }
+  
+    </style>
+ </head>
+<body>
+  <h1>Welcome to Troubleshoot.it!</h1>
 
-You can use the [editor on GitHub](https://github.com/MatteoSalverio/troubleshoot.it/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  <h2>About this Site</h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MatteoSalverio/troubleshoot.it/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  <p>This website is for all the people out there who just can't seem to make anything related to technology work properly. I will be writing about all of the errors that I encounter here, and how to solve them. I also plan to help others get to solutions to their problem</p>
+                                           
+<div><h2>About Me</h2>
+  <p>I am a high school student, and I am learning all about technology, it is my passion. I just want to know as many things as possible. I always have seemed to have this horrible luck, though. There is always some sort of error for me to overcome to get to my goals, and my project are never quick and easy.</p></div>
+  
+<div class="What I Do"><h2>What I Do</h2>
+  <p>I do things such as, video games, technology repair (Specifically iPhones and Windows computers). I am learning things like Robotics, Photoshop, Programming, and much more. I want to share my knowledge and findings with the world, through this website.</p></div>
+</body>
+</html>
