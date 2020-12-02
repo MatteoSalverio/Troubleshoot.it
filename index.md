@@ -11,6 +11,11 @@
         text-align: center;
         margin: 25px;
       }
+      
+      .sections {
+      text-align: center;
+      text-size: 2em
+      }
   
     </style>
  </head>
@@ -26,7 +31,7 @@
 <div class="What I Do"><h2>What I Do</h2>
   <p>I do things such as, video games, technology repair (Specifically iPhones and Windows computers). I am learning things like Robotics, Photoshop, Programming, and much more. I want to share my knowledge and findings with the world, through this website.</p></div>
   
-  <div class="sections"><h2>Sections:</h2>
-  <li><a href="https://matteosalverio.github.io/Troubleshoot.it/solved-projects">My Solved Projects</a>
+  <h2>Sections:</h2>
+  <div class="sections"><li><a href="https://matteosalverio.github.io/Troubleshoot.it/solved-projects">My Solved Projects</a>
   <li><a href="">My Unsolved Projects</a>
-  <li><a href="">How to Contribute</a>
+  <li><a href="">How to Contribute</a></div>
