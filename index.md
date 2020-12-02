@@ -27,7 +27,7 @@
 <div class="What I Do"><h2>What I Do</h2>
   <p>I do things such as, video games, technology repair (Specifically iPhones and Windows computers). I am learning things like Robotics, Photoshop, Programming, and much more. I want to share my knowledge and findings with the world, through this website.</p></div>
   
-  <div class="sections"><h3>Sections:</h3>
+  <div class="sections"><h2>Sections:</h2>
   *<a href="">My solved projects</a>
   *<a href="">My unsolved projects</a>
   *<a href="">How to contribute</a>
