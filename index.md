@@ -28,8 +28,8 @@
   <p>I do things such as, video games, technology repair (Specifically iPhones and Windows computers). I am learning things like Robotics, Photoshop, Programming, and much more. I want to share my knowledge and findings with the world, through this website.</p></div>
   
   <div class="sections"><h2>Sections:</h2>
-  *<a href="">My solved projects</a>
-  *<a href="">My unsolved projects</a>
-  *<a href="">How to contribute</a>
+  <li><a href="">My solved projects</a>
+  <li><a href="">My unsolved projects</a>
+  <li><a href="">How to contribute</a>
 </body>
 </html>
