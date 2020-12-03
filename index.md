@@ -12,7 +12,7 @@
         margin: 25px;
       }
       
-      .sections {
+      li {
       text-align: center;
       text-size: 2em
       }
