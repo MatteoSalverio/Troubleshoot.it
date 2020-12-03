@@ -3,5 +3,5 @@
 
 <h2>Links:</h2>
 <li><a href="">General Tech Projects</a>
-<li><a href="https://matteosalverio.github.io/Troubleshoot.it/gaming-projects">Gaming Projects</a>
+<li><a href="https://matteosalverio.github.io/Troubleshoot.it/projects/gaming">Gaming Projects</a>
   <li><a href="">School Projects (Do at your own risk)</a>
