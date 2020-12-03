@@ -2,4 +2,4 @@
 
 <h2>List of Projects:</h2>
 
-*<a href="">The Legend of Zelda: Breath of the Wild on a computer with keyboard/mouse support</a>
+<li><a href="">The Legend of Zelda: Breath of the Wild on a computer with keyboard/mouse support</a>
